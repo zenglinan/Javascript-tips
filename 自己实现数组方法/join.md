@@ -1,5 +1,4 @@
 ```
-```
 Array.prototype.join = function(char){
   const len = this.length
   let result = this[0] || ''  // 取出第一位
